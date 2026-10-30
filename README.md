@@ -8,6 +8,18 @@ Mods para o port nativo de PC de *Shadow of the Colossus* (remake de PS4, EU 1.0
 <img src="docs/img/patcher.png" width="49%" alt="Patcher"> <img src="docs/img/trainer.png" width="30%" alt="Trainer v2.3">
 </p>
 
+### Zelda of the Colossus em jogo
+
+Link no lugar do Wander, com espada e arco, e o HUD de corações e círculo de fôlego no lugar da barra de vida.
+
+<p align="center">
+<img src="docs/img/link-espada.jpg" width="24%" alt="Link com a espada"> <img src="docs/img/link-arco.jpg" width="24%" alt="Link com o arco"> <img src="docs/img/link-cavalo.jpg" width="24%" alt="Link a cavalo com a espada"> <img src="docs/img/link-colosso.jpg" width="24%" alt="Link escalando um colosso">
+</p>
+
+<p align="center">
+<img src="docs/img/hud-coracoes.jpg" width="30%" alt="HUD de corações e círculo de fôlego">
+</p>
+
 ## O que tem aqui
 
 | Mod | O que faz |
